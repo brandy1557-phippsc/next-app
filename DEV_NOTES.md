@@ -10,3 +10,8 @@ Personal development log — notes, findings, and ongoing work.
 - Drafted initial implementation plan for v2
 - Added CONTRIBUTING.md stub
 - Cleaned up old debug logs
+
+## 2026-04-29
+- Wrote notes on upcoming feature design
+- Reorganised test fixtures
+- Bumped patch version
