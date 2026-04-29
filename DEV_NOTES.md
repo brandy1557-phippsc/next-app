@@ -15,3 +15,6 @@ Personal development log — notes, findings, and ongoing work.
 - Wrote notes on upcoming feature design
 - Reorganised test fixtures
 - Bumped patch version
+
+## 2026-04-29
+- Ran linter, applied auto-fixes
